@@ -1,7 +1,7 @@
 #Autor: Sebastian Triana
 
 #Registro de nuevos libros SI
-#Registro de nuevos usuarios SI
+#Registro de nuevos usuarios NO
 #Mínimo 3 categorías de libros SI
 #Menu de opciones SI
 
@@ -68,3 +68,4 @@ def main():
             print("Opción inválida, intente de nuevo.")
 
 main()
+
